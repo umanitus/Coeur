@@ -9,4 +9,4 @@ L'ordinateur symbiotique, 60 ans après Lick.
 | Son ordinateur personnel | Dans son sac | Sur ses cuisses | Taper au clavier ou pointer des icones | Regarder des fenêtres sur un écran | Programmes sur disques | En C++ à Windows |
 | Son ordinateur personnel | Dans son sac | Sur ses cuisses | Taper au clavier ou cliquer des liens | Regarder des pages sur un écran | Sites sur le Web | En HTML, CSS et JavaScript à son navigateur |
 | Son smartphone | Dans sa poche | Dans sa main | Toucher un écran | Regarder des vues sur un Ecran | Apps sur store | En Swift à iOS ou en Kotlin à Android
-| Son Coeur | Sur son coeur | Sur son coeur | Parler ou toucher son Coeur ou bouger ses mains | Regarder des Cartes projetées | Sites sur le Web | De son language naturel à son U |
+| Son Coeur | Sur son coeur | Sur son coeur | Parler ou toucher son Coeur ou bouger ses mains | Regarder des Cartes projetées | Sites sur le Web | De sa langue naturelle à Umanitus |
